@@ -1,22 +1,21 @@
-# build directories
-build-*/
+# Сборка
+build/
+*-build/
+CMakeLists.txt.user*
+
+# Временные файлы
 *.user
-*.user.*
+*.swp
+*.swo
+*~
 
-# Qt Creator
-*.creator.user*
-*.creator.user.*
+# Автоматически генерируемые файлы CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
 
-# compiled files
-*.o
-*.exe
-*.dll
-*.so
-*.dylib
+# Автоматически генерируемые файлы Qt (moc)
 moc_*.cpp
-ui_*.h
-qrc_*.cpp
-
-# other
-.DS_Store
-Thumbs.db
+moc_*.h
