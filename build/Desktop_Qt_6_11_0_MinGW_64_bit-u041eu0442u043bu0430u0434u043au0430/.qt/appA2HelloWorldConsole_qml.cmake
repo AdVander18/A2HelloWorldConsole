@@ -1,0 +1,9 @@
+
+set(target "appA2HelloWorldConsole")
+set(working_dir "D:/AllVisualStudio/C++/Qt/A2HelloWorldConsole")
+set(src_and_dest_list
+    "D:/AllVisualStudio/C++/Qt/A2HelloWorldConsole/Main.qml"
+    "D:/AllVisualStudio/C++/Qt/A2HelloWorldConsole/build/Desktop_Qt_6_11_0_MinGW_64_bit-u041eu0442u043bu0430u0434u043au0430/A2HelloWorldConsole/Main.qml"
+
+)
+set(timestamp_file "D:/AllVisualStudio/C++/Qt/A2HelloWorldConsole/build/Desktop_Qt_6_11_0_MinGW_64_bit-u041eu0442u043bu0430u0434u043au0430/.qt/appA2HelloWorldConsole_qml.txt")

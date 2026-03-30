@@ -1,0 +1,22 @@
+# build directories
+build-*/
+*.user
+*.user.*
+
+# Qt Creator
+*.creator.user*
+*.creator.user.*
+
+# compiled files
+*.o
+*.exe
+*.dll
+*.so
+*.dylib
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
+# other
+.DS_Store
+Thumbs.db

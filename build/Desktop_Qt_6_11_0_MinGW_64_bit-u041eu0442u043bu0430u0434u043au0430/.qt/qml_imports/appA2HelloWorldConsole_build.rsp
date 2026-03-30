@@ -1,0 +1,14 @@
+-rootPath
+D:/AllVisualStudio/C++/Qt/A2HelloWorldConsole
+-cmake-output
+-output-file
+D:/AllVisualStudio/C++/Qt/A2HelloWorldConsole/build/Desktop_Qt_6_11_0_MinGW_64_bit-u041eu0442u043bu0430u0434u043au0430/.qt/qml_imports/appA2HelloWorldConsole_build.cmake
+-importPath
+D:/AllVisualStudio/C++/Qt/A2HelloWorldConsole/build/Desktop_Qt_6_11_0_MinGW_64_bit-u041eu0442u043bu0430u0434u043au0430
+-importPath
+D:/AllVisualStudio/C++/Qt/A2HelloWorldConsole/build/Desktop_Qt_6_11_0_MinGW_64_bit-u041eu0442u043bu0430u0434u043au0430/A2HelloWorldConsole
+-importPath
+D:/Qt/6.11.0/mingw_64/qml
+-qrcFiles
+D:/AllVisualStudio/C++/Qt/A2HelloWorldConsole/build/Desktop_Qt_6_11_0_MinGW_64_bit-u041eu0442u043bu0430u0434u043au0430/.qt/rcc/qmake_A2HelloWorldConsole.qrc
+D:/AllVisualStudio/C++/Qt/A2HelloWorldConsole/build/Desktop_Qt_6_11_0_MinGW_64_bit-u041eu0442u043bu0430u0434u043au0430/.qt/rcc/appA2HelloWorldConsole_raw_qml_0.qrc

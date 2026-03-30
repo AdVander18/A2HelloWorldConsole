@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appA2HelloWorldConsole_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_A2HelloWorldConsole.cpp"
+  ".rcc/qmlcache/appA2HelloWorldConsole_Main_qml.cpp"
+  ".rcc/qmlcache/appA2HelloWorldConsole_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appA2HelloWorldConsole_qmlcache_loader.cpp"
+  "A2HelloWorldConsole/appA2HelloWorldConsole.qmltypes"
+  "CMakeFiles/appA2HelloWorldConsole.dir/456a43e1925a3bf6983779f91e30e975/.qt/rcc/qrc_appA2HelloWorldConsole_raw_qml_0.cpp.obj"
+  "CMakeFiles/appA2HelloWorldConsole.dir/456a43e1925a3bf6983779f91e30e975/.qt/rcc/qrc_appA2HelloWorldConsole_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appA2HelloWorldConsole.dir/456a43e1925a3bf6983779f91e30e975/.qt/rcc/qrc_qmake_A2HelloWorldConsole.cpp.obj"
+  "CMakeFiles/appA2HelloWorldConsole.dir/456a43e1925a3bf6983779f91e30e975/.qt/rcc/qrc_qmake_A2HelloWorldConsole.cpp.obj.d"
+  "CMakeFiles/appA2HelloWorldConsole.dir/456a43e1925a3bf6983779f91e30e975/.rcc/qmlcache/appA2HelloWorldConsole_Main_qml.cpp.obj"
+  "CMakeFiles/appA2HelloWorldConsole.dir/456a43e1925a3bf6983779f91e30e975/.rcc/qmlcache/appA2HelloWorldConsole_Main_qml.cpp.obj.d"
+  "CMakeFiles/appA2HelloWorldConsole.dir/456a43e1925a3bf6983779f91e30e975/.rcc/qmlcache/appA2HelloWorldConsole_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appA2HelloWorldConsole.dir/456a43e1925a3bf6983779f91e30e975/.rcc/qmlcache/appA2HelloWorldConsole_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appA2HelloWorldConsole.dir/appA2HelloWorldConsole_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appA2HelloWorldConsole.dir/appA2HelloWorldConsole_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appA2HelloWorldConsole.dir/appa2helloworldconsole_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appA2HelloWorldConsole.dir/appa2helloworldconsole_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appA2HelloWorldConsole.dir/main.cpp.obj"
+  "CMakeFiles/appA2HelloWorldConsole.dir/main.cpp.obj.d"
+  "CMakeFiles/appA2HelloWorldConsole_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appA2HelloWorldConsole_autogen.dir/ParseCache.txt"
+  "appA2HelloWorldConsole_autogen"
+  "appA2HelloWorldConsole.exe"
+  "appA2HelloWorldConsole.exe.manifest"
+  "appA2HelloWorldConsole.pdb"
+  "appA2HelloWorldConsole_autogen/mocs_compilation.cpp"
+  "appA2HelloWorldConsole_autogen/timestamp"
+  "appa2helloworldconsole_qmltyperegistrations.cpp"
+  "libappA2HelloWorldConsole.dll.a"
+  "meta_types/appA2HelloWorldConsole_json_file_list.txt"
+  "meta_types/appA2HelloWorldConsole_json_file_list.txt.timestamp"
+  "meta_types/qt6appa2helloworldconsole_metatypes.json"
+  "meta_types/qt6appa2helloworldconsole_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appA2HelloWorldConsole.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

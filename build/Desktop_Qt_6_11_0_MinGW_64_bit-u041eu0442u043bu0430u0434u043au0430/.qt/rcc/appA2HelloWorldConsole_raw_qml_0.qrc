@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/A2HelloWorldConsole/">
+    <file alias="Main.qml">D:/AllVisualStudio/C++/Qt/A2HelloWorldConsole/Main.qml</file>
+  </qresource>
+</RCC>
+
