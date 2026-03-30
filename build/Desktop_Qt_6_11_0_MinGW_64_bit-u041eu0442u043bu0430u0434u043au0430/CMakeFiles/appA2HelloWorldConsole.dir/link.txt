@@ -1,3 +1,0 @@
-D:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\appA2HelloWorldConsole.dir/objects.a
-D:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\appA2HelloWorldConsole.dir/objects.a @CMakeFiles\appA2HelloWorldConsole.dir\objects1.rsp
-D:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\appA2HelloWorldConsole.dir/objects.a -Wl,--no-whole-archive -o appA2HelloWorldConsole.exe -Wl,--out-implib,libappA2HelloWorldConsole.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\appA2HelloWorldConsole.dir\linkLibs.rsp
